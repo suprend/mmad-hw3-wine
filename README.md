@@ -56,4 +56,8 @@ Streamlit выполняет `app.py` заново при каждом дейс�
 
 ## Публикация
 
-Для Streamlit Community Cloud нужны отдельный GitHub-репозиторий с содержимым `wine_app/`, точка входа `app.py` и Python 3.12. Деплой пока не выполнен.
+Приложение: [Хорошее ли вино](https://mmad-hw3-wine.streamlit.app/).
+
+Репозиторий: [suprend/mmad-hw3-wine](https://github.com/suprend/mmad-hw3-wine).
+
+Развёрнуто в Streamlit Community Cloud: ветка `main`, точка входа `app.py`, Python 3.12.
